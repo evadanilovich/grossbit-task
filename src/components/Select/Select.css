@@ -1,0 +1,8 @@
+.select {
+    font-size: 18px;
+    padding: 8px 15px;
+    outline: none;
+    border: none;
+    color: #000;
+    cursor: pointer;
+}
